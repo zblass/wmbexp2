@@ -10,8 +10,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem "bootstrap-sass", "~> 3.3.5"
 gem 'paperclip', '~> 4.2'
-gem 'aws-sdk-v1'
-gem 'aws-sdk'
+gem 'aws-sdk', '< 2.0'
 gem 'devise'
 gem 'bcrypt'
 
