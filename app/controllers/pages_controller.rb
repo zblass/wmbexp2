@@ -4,5 +4,11 @@ class PagesController < ApplicationController
 
   def about 
   end
+
+  def form 
+  end
+
+  def survey
+  end
    
 end
