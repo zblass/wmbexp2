@@ -10,5 +10,8 @@ class PagesController < ApplicationController
 
   def survey
   end
+
+  def sweeps
+  end
    
 end
